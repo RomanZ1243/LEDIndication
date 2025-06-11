@@ -1,0 +1,55 @@
+#######################################
+# Syntax Coloring Map For LEDIndication
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+LEDIndication	KEYWORD1
+Indication	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+clear	KEYWORD2
+fill	KEYWORD2
+update	KEYWORD2
+dot	KEYWORD2
+lineH	KEYWORD2
+lineV	KEYWORD2
+rect	KEYWORD2
+layer	KEYWORD2
+number	KEYWORD2
+invert	KEYWORD2
+digit	KEYWORD2
+segment	KEYWORD2
+
+segment4	KEYWORD2
+getMatrix	KEYWORD2
+setSpeed	KEYWORD2
+setEnable	KEYWORD2
+setCursor	KEYWORD2
+setRotation	KEYWORD2
+clear_matrix	KEYWORD2
+fill_matrix	KEYWORD2
+delayUpdate	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+A	LITERAL1
+B	LITERAL1
+C	LITERAL1
+D	LITERAL1
+E	LITERAL1
+F	LITERAL1
+G	LITERAL1
+DP	LITERAL1
+
+CLEAR	LITERAL1
+STROKE	LITERAL1
+CLEAR_FILL	LITERAL1
+STROKE_FILL	LITERAL1
+
+MATRIX	LITERAL1
+SEVSEGMENT	LITERAL1
