@@ -1,3 +1,5 @@
+[![latest](https://img.shields.io/github/v/release/RomanZ1243/LEDIndication.svg?color=brightgreen)](https://github.com/RomanZ1243/LEDIndication/archive/refs/heads/main.zip)
+
 # LEDIndication
 LEDIndication - легкая бибилотека для светодиодных индикаторов без микросхем, работающих по типу динамической индикации
 
